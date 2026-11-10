@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.scrollsense.OverlayDimensionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-10T03:41:00.631Z" hostname="Amans-MacBook-Air-2.local" time="0.003">
+  <properties/>
+  <testcase name="testOverlayFitsOnSmallestPhoneScreens" classname="com.example.scrollsense.OverlayDimensionTest" time="0.002"/>
+  <testcase name="testStatusBarOffsetCalculation" classname="com.example.scrollsense.OverlayDimensionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

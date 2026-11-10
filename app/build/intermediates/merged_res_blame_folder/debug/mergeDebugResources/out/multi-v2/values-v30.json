@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.scrollsense.app-mergeDebugResources-59:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/amansingh/.gradle/caches/8.11.1/transforms/f6bd03f9a33142840192c1e206703ebc/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

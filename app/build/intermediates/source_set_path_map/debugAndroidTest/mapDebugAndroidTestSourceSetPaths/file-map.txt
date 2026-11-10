@@ -1,0 +1,38 @@
+com.example.scrollsense.test.app-emoji2-1.3.0-0 /Users/amansingh/.gradle/caches/8.11.1/transforms/1b422d10057ecc50c1a81241cb212d99/transformed/emoji2-1.3.0/res
+com.example.scrollsense.test.app-ui-test-junit4-release-1 /Users/amansingh/.gradle/caches/8.11.1/transforms/1bdbe8510ce4a901c959e14a51e4d309/transformed/ui-test-junit4-release/res
+com.example.scrollsense.test.app-savedstate-1.2.1-2 /Users/amansingh/.gradle/caches/8.11.1/transforms/2588ba241ff39994e32e2a43835f4fda/transformed/savedstate-1.2.1/res
+com.example.scrollsense.test.app-lifecycle-runtime-release-3 /Users/amansingh/.gradle/caches/8.11.1/transforms/3c49cded3fa2ca7c46c63b13b4e3826c/transformed/lifecycle-runtime-release/res
+com.example.scrollsense.test.app-ui-release-4 /Users/amansingh/.gradle/caches/8.11.1/transforms/3e8e7d6989177b980e17600a029388c7/transformed/ui-release/res
+com.example.scrollsense.test.app-ui-text-release-5 /Users/amansingh/.gradle/caches/8.11.1/transforms/3fa2952fdf9a749990d817a0fc951e95/transformed/ui-text-release/res
+com.example.scrollsense.test.app-lifecycle-viewmodel-release-6 /Users/amansingh/.gradle/caches/8.11.1/transforms/43c6fafa3d310a22185700f06432eca0/transformed/lifecycle-viewmodel-release/res
+com.example.scrollsense.test.app-lifecycle-viewmodel-savedstate-2.8.7-7 /Users/amansingh/.gradle/caches/8.11.1/transforms/52a4d1ff04c8390fbed0935ce7a56fef/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.example.scrollsense.test.app-ui-geometry-release-8 /Users/amansingh/.gradle/caches/8.11.1/transforms/5398354f5d2ea62da17bf735f6ea10a5/transformed/ui-geometry-release/res
+com.example.scrollsense.test.app-ui-graphics-release-9 /Users/amansingh/.gradle/caches/8.11.1/transforms/565e9dbbd7a2c2598ecc4ea42f534788/transformed/ui-graphics-release/res
+com.example.scrollsense.test.app-core-1.6.1-10 /Users/amansingh/.gradle/caches/8.11.1/transforms/58307bdfd1332cf6dbd23d50cce4547e/transformed/core-1.6.1/res
+com.example.scrollsense.test.app-lifecycle-viewmodel-ktx-2.8.7-11 /Users/amansingh/.gradle/caches/8.11.1/transforms/5ea99a1907fc5865325466de6be491b9/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.example.scrollsense.test.app-tracing-1.2.0-12 /Users/amansingh/.gradle/caches/8.11.1/transforms/65bdd1c967978f7cc905d47488fee640/transformed/tracing-1.2.0/res
+com.example.scrollsense.test.app-core-runtime-2.2.0-13 /Users/amansingh/.gradle/caches/8.11.1/transforms/7c0e9def4a0e474a73f6acad27139a76/transformed/core-runtime-2.2.0/res
+com.example.scrollsense.test.app-activity-1.9.3-14 /Users/amansingh/.gradle/caches/8.11.1/transforms/7f4b11b09f818658ada5d330b3ea4e5b/transformed/activity-1.9.3/res
+com.example.scrollsense.test.app-ui-util-release-15 /Users/amansingh/.gradle/caches/8.11.1/transforms/80797ded7594be291f78449cc3fea283/transformed/ui-util-release/res
+com.example.scrollsense.test.app-graphics-path-1.0.1-16 /Users/amansingh/.gradle/caches/8.11.1/transforms/86dafae973bc9c6dfee678ed6c57060e/transformed/graphics-path-1.0.1/res
+com.example.scrollsense.test.app-activity-ktx-1.9.3-17 /Users/amansingh/.gradle/caches/8.11.1/transforms/87a660b8ce0a2bed362462feb61790ce/transformed/activity-ktx-1.9.3/res
+com.example.scrollsense.test.app-core-1.15.0-18 /Users/amansingh/.gradle/caches/8.11.1/transforms/8bb52d91d367fbd8c88fd243d9df6200/transformed/core-1.15.0/res
+com.example.scrollsense.test.app-customview-poolingcontainer-1.0.0-19 /Users/amansingh/.gradle/caches/8.11.1/transforms/942868034517b486065731598dd6580b/transformed/customview-poolingcontainer-1.0.0/res
+com.example.scrollsense.test.app-ui-unit-release-20 /Users/amansingh/.gradle/caches/8.11.1/transforms/a1a982eaea30eaa9f12ebd1c955cd811/transformed/ui-unit-release/res
+com.example.scrollsense.test.app-lifecycle-livedata-core-2.8.7-21 /Users/amansingh/.gradle/caches/8.11.1/transforms/aca9bbdd8271499c7420c96154e3e175/transformed/lifecycle-livedata-core-2.8.7/res
+com.example.scrollsense.test.app-runtime-release-22 /Users/amansingh/.gradle/caches/8.11.1/transforms/b17c5729fcf03bc22b393a0bfc1a315d/transformed/runtime-release/res
+com.example.scrollsense.test.app-startup-runtime-1.1.1-23 /Users/amansingh/.gradle/caches/8.11.1/transforms/b96257869e1ad0ddffe62b1da7c2a73e/transformed/startup-runtime-1.1.1/res
+com.example.scrollsense.test.app-lifecycle-process-2.8.7-24 /Users/amansingh/.gradle/caches/8.11.1/transforms/b9cd19c279a7951b11fdc7484be43220/transformed/lifecycle-process-2.8.7/res
+com.example.scrollsense.test.app-savedstate-ktx-1.2.1-25 /Users/amansingh/.gradle/caches/8.11.1/transforms/bde11dd311ed782ccc7c36ba4c2f11a2/transformed/savedstate-ktx-1.2.1/res
+com.example.scrollsense.test.app-annotation-experimental-1.4.1-26 /Users/amansingh/.gradle/caches/8.11.1/transforms/c567e350baf44a5127f6f5e0b827cc7f/transformed/annotation-experimental-1.4.1/res
+com.example.scrollsense.test.app-core-ktx-1.15.0-27 /Users/amansingh/.gradle/caches/8.11.1/transforms/c8aeb44e0b3ade52a2e21eb08355fb9c/transformed/core-ktx-1.15.0/res
+com.example.scrollsense.test.app-ui-test-release-28 /Users/amansingh/.gradle/caches/8.11.1/transforms/d50d82112db6c4a739a945b6fe3976e1/transformed/ui-test-release/res
+com.example.scrollsense.test.app-lifecycle-runtime-ktx-release-29 /Users/amansingh/.gradle/caches/8.11.1/transforms/dc9774b38d2cc3bfa13772b052dd9057/transformed/lifecycle-runtime-ktx-release/res
+com.example.scrollsense.test.app-lifecycle-runtime-compose-release-30 /Users/amansingh/.gradle/caches/8.11.1/transforms/ddf9de47df7e350515e6b311ac4efdd4/transformed/lifecycle-runtime-compose-release/res
+com.example.scrollsense.test.app-activity-compose-1.9.3-31 /Users/amansingh/.gradle/caches/8.11.1/transforms/e9cd2765f8df133b8b77dbeef75a6617/transformed/activity-compose-1.9.3/res
+com.example.scrollsense.test.app-profileinstaller-1.3.1-32 /Users/amansingh/.gradle/caches/8.11.1/transforms/ebf5e8fc63cf393b83836e7724ae9efa/transformed/profileinstaller-1.3.1/res
+com.example.scrollsense.test.app-runtime-saveable-release-33 /Users/amansingh/.gradle/caches/8.11.1/transforms/f7c39b59e427ee1a5e75e13d23c6e702/transformed/runtime-saveable-release/res
+com.example.scrollsense.test.app-androidTest-34 /Users/amansingh/Desktop/Scroll Sense/app/build/generated/res/resValues/androidTest/debug
+com.example.scrollsense.test.app-mergeDebugAndroidTestResources-35 /Users/amansingh/Desktop/Scroll Sense/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.scrollsense.test.app-mergeDebugAndroidTestResources-36 /Users/amansingh/Desktop/Scroll Sense/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.scrollsense.test.app-debugAndroidTest-37 /Users/amansingh/Desktop/Scroll Sense/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

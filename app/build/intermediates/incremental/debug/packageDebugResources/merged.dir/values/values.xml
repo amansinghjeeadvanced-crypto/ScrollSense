@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D0F14</color>
+    <color name="black">#FF000000</color>
+    <color name="primary_cyan">#38BDF8</color>
+    <color name="primary_violet">#818CF8</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="accessibility_service_description">ScrollSense uses AccessibilityService to detect when protected apps (Instagram and YouTube) are active and provides user-configured interventions when your daily digital-wellness limits are reached. No text, passwords, or personal messages are ever inspected, transmitted, or collected.</string>
+    <string name="accessibility_service_label">ScrollSense Attention Guard</string>
+    <string name="app_name">ScrollSense</string>
+    <style name="Theme.ScrollSense" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+</resources>

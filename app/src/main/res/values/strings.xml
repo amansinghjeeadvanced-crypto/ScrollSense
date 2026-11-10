@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScrollSense</string>
+    <string name="accessibility_service_label">ScrollSense Attention Guard</string>
+    <string name="accessibility_service_description">ScrollSense uses AccessibilityService to detect when protected apps (Instagram and YouTube) are active and provides user-configured interventions when your daily digital-wellness limits are reached. No text, passwords, or personal messages are ever inspected, transmitted, or collected.</string>
+</resources>
